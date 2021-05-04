@@ -34,11 +34,11 @@ The analysis of the election show that:
      - Arapahoe received 6.7% of the vote and 24,801  number of votes
 
 ## Summary and Future Recommendations 
-In summary, I used Python to analyze election data by doing the following: 
-	- Creating scripts that read, write, and store data from files and arrays 
-	- Performing mathematical operations 
-	- Using decision statements, logical operations, and repetition statements to run code more than once 
-	- Produce screen outputs 
-	- Using knowledge of variables, arrays, conditionals, and loops
+In summary, I used Python to analyze election data by doing the following:
+- Creating scripts that read, write, and store data from files and arrays 
+- Performing mathematical operations 
+- Using decision statements, logical operations, and repetition statements to run code more than once 
+- Producing screen outputs 
+- Using knowledge of variables, arrays, conditionals, and loops
 
 I was not only able to determine summary statistics of a large dataset of election data using Python but also format/display these results in an appealing way. In the future, the election commission can use this script for other elections by changing the directory path for the file being read into Python for the analysis and adjusting the indexes of the arrays accordingly when parsing through the information depending on the format.
