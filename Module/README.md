@@ -29,7 +29,7 @@ In this challenge I used Python to analyze election data by doing the following:
 - Creating scripts that read, write, and store data from files and arrays
 - Performing mathematical operations
 - Using decision statements, logical operations, and repetition statements to run code more than once
-- Produce screen outputs
+- Producing screen outputs
 - Using knowledge of variables, arrays, conditionals, and loops
 
 ## Challenge Summary
